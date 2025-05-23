@@ -99,11 +99,12 @@ endmodule
 
 ### Nclaunch Work Library Window
 
-![image](/mnt/data/WhatsApp%20Image%202025-05-23%20at%2013.49.51_5f805847.jpg)
+![image](https://raw.githubusercontent.com/Aishu-25/Design-and-Simulation-of-a-4-Bit-Adder-Using-cadence-nclaunch/main/WhatsApp%20Image%202025-05-23%20at%2013.49.51_5f805847.jpg)
+
 
 
 ### Simulation Waveforms
-![image](/mnt/data/WhatsApp%20Image%202025-05-23%20at%2013.54.40_ed1a8c4a.jpg)
+![image](https://raw.githubusercontent.com/Aishu-25/Design-and-Simulation-of-a-4-Bit-Adder-Using-cadence-nclaunch/main/WhatsApp%20Image%202025-05-23%20at%2013.54.40_ed1a8c4a.jpg)
 
 
 
